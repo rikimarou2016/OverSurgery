@@ -1,0 +1,142 @@
+img{
+    display: block;
+    margin-left: 100px;
+    margin-right: 50px;
+}
+.Main-title{
+    font-size: 30px;
+    font-style: normal;
+    color: black;
+    margin-left: 760px;
+    font-weight: bold;
+}
+
+
+.SecondTitleChangeAppointment{
+
+    font-size: 20px;
+    font-style: normal;
+    color: black;
+    margin-left: 760px;
+    font-weight: bold;
+}
+
+.StaffTable,th,td{
+
+    color: black;
+    font-size: 16px;
+    margin-left: 285px;
+    border: 3px solid black;
+    padding: 7px;
+    background-color: #b8daff;
+    text-align: center;
+    margin-top: 40px;
+
+}
+
+
+
+
+
+.btn-successStaff{
+    margin-left: 1440px;
+    font: bold 11px Arial;
+    text-decoration: none;
+    background-color: #EEEEEE;
+    color: #333333;
+    padding: 2px 3px 2px 3px;
+    font-size: 22px;
+}
+
+
+
+
+
+
+.Main-title{
+    font-size: 30px;
+    font-style: normal;
+    color: black;
+    margin-left: 750px;
+    font-weight: bold;
+}
+
+.SecondTitle{
+    font-size: 20px;
+    font-style: normal;
+    color: black;
+    margin-left: 755px;
+    font-weight: bold;
+}
+
+.PatientSurname{
+    margin-left: 572px;
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+
+}
+
+.PatientLastname{
+    margin-left: 576px;
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+
+}
+
+.Datepicker{
+
+    margin-left: 695px;
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+}
+
+.Status {
+    margin-left: 550px;
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+
+}
+
+.GPorNurse{
+
+    margin-left: 570px;
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+}
+.btn-success{
+    display: block;
+    width: 80px;
+    margin-left: 840px;
+}
+
+.dropdownB{
+
+    font-size: 20px;
+    width: 243px;
+    height: 35px;
+}
+
+.staffId{
+
+    margin-left: 490px;
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+
+
+}
+
+.PatientNHSNumber{
+
+    margin-left: 625px;
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+
+
+}

@@ -1,0 +1,72 @@
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.OpeningHours{
+
+    margin-left: 560px;
+    color: red;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 245px;
+}
+
+
+.Datepicker{
+
+    margin-left: 635px;
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+}
+
+.timepicker{
+    margin-left: 635px;
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+
+}
+
+
+.note {
+    margin-left: 635px;
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+}
+
+.GPorNurse{
+
+    margin-left: 505px;
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+}
+
+.btn-success{
+    display: block;
+    width: 80px;
+    margin-left: 780px;
+}
+
+.dropdownB{
+
+    font-size: 20px;
+    width: 243px;
+    height: 35px;
+}
+
+.btn-successPatient {
+
+    margin-left: 1440px;
+    font: bold 11px Arial;
+    text-decoration: none;
+    background-color: #EEEEEE;
+    color: #333333;
+    padding: 2px 3px 2px 3px;
+    font-size: 22px;
+}

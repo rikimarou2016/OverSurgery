@@ -1,0 +1,79 @@
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.btn-success {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100px;
+}
+
+.Title{
+    margin-left: 650px;
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    font-weight: bold;
+
+}
+.Surname{
+    margin-left: 600px;
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    font-weight: bold;
+
+}
+.Lastname{
+
+    margin-left: 603px;
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    font-weight: bold;
+}
+.DateOfBirth{
+    margin-left: 575px;
+    font-size: 22px;
+    font-weight: bold;
+    color: black;
+    font-weight: bold;
+}
+.Contact{
+    margin-left: 545px;
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    font-weight: bold;
+
+}
+.Username,.Password{
+    margin-left: 605px;
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    font-weight: bold;
+
+}
+
+.NHSnumber{
+
+    margin-left: 568px;
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    font-weight: bold;
+}
+
+.email{
+
+    margin-left: 645px;
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    font-weight: bold;
+
+}

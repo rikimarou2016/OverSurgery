@@ -1,0 +1,16 @@
+img{
+    display: block;
+    margin-left: 85px;
+    margin-right: 60px;
+    margin-top: 20px;
+}
+
+.MainTitle{
+
+    font-size: 60px;
+    margin-left: 660px;
+    font-weight: bold;
+    color: black;
+    line-height: 50px;
+
+}

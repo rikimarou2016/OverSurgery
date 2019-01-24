@@ -1,0 +1,130 @@
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.button1{
+
+    font: bold 11px Arial;
+    text-decoration: none;
+    background-color: #EEEEEE;
+    color: #333333;
+    padding: 2px 6px 2px 6px;
+    border-top: 1px solid #CCCCCC;
+    border-right: 1px solid #333333;
+    border-bottom: 1px solid #333333;
+    border-left: 1px solid #CCCCCC;
+    display: block;
+    font-size: 25px;
+    margin-left: 430px;
+    width: 280px;
+    height: 150px;
+    font-weight: bold;
+    text-align: center;
+    position:relative;
+    vertical-align: center;
+    line-height: 130px;
+    background:lightcoral;
+}
+
+.button2 {
+    font: bold 11px Arial;
+    text-decoration: none;
+    background-color: #EEEEEE;
+    color: #333333;
+    padding: 2px 6px 2px 6px;
+    border-top: 1px solid #CCCCCC;
+    border-right: 1px solid #333333;
+    border-bottom: 1px solid #333333;
+    border-left: 1px solid #CCCCCC;
+    display: block;
+    font-size: 25px;
+    margin-left: 40px;
+    width: 280px;
+    height: 150px;
+    font-weight: bold;
+    text-align: center;
+    position:relative;
+    vertical-align: center;
+    line-height: 130px;
+    background: yellow;
+
+}
+
+
+
+.button3{
+    font: bold 11px Arial;
+    text-decoration: none;
+    background-color: #EEEEEE;
+    color: #333333;
+    padding: 2px 6px 2px 6px;
+    border-top: 1px solid #CCCCCC;
+    border-right: 1px solid #333333;
+    border-bottom: 1px solid #333333;
+    border-left: 1px solid #CCCCCC;
+    display: block;
+    font-size: 25px;
+    margin-left: 418px;
+    width: 280px;
+    height: 150px;
+    font-weight: bold;
+    text-align: center;
+    position:relative;
+    vertical-align: center;
+    line-height: 130px;
+    background: greenyellow;
+}
+
+.button4{
+    font: bold 11px Arial;
+    text-decoration: none;
+    background-color: #EEEEEE;
+    color: #333333;
+    padding: 2px 6px 2px 6px;
+    border-top: 1px solid #CCCCCC;
+    border-right: 1px solid #333333;
+    border-bottom: 1px solid #333333;
+    border-left: 1px solid #CCCCCC;
+    display: block;
+    font-size: 25px;
+    margin-left: 40px;
+    width: 280px;
+    height: 150px;
+    font-weight: bold;
+    text-align: center;
+    position:relative;
+    vertical-align: center;
+    line-height: 130px;
+    background: lightblue;
+}
+
+.Main-title{
+    font-size: 40px;
+    font-style: normal;
+    color: black;
+    text-align: center;
+
+}
+
+
+.btn-logout{
+
+    margin-left: 1530px;
+    font: bold 11px Arial;
+    text-decoration: none;
+    background-color: #EEEEEE;
+    color: #333333;
+    padding: 2px 3px 2px 3px;
+    font-size: 22px;
+}
+
+.helloUser{
+
+    font-size: 40px;
+    margin-top: 120px;
+    margin-left: 650px;
+    color: black;
+}

@@ -1,0 +1,45 @@
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.Main-title{
+    font-size: 30px;
+    font-style: normal;
+    color: Black;
+    text-align: center;
+    font-weight: bold;
+}
+
+.SecondTitle{
+    font-style: italic;
+    color: black ;
+    text-align: center;
+    font-weight: bold;
+    font-size: 19px;
+}
+
+.StaffTable,th,td{
+
+    color: black;
+    font-size: 18px;
+    margin-left: 450px;
+    border: 3px solid black;
+    padding: 7px;
+    background-color: #b8daff;
+    text-align: center;
+}
+
+
+.btn-successPatient {
+
+    margin-left: 1440px;
+    font: bold 11px Arial;
+    text-decoration: none;
+    background-color: #EEEEEE;
+    color: #333333;
+    padding: 2px 3px 2px 3px;
+    font-size: 22px;
+}

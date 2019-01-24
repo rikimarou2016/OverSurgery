@@ -1,0 +1,96 @@
+img{
+    display: block;
+    margin-left: 90px;
+    margin-right: 60px;
+}
+
+.Main-title{
+    font-size: 30px;
+    font-style: normal;
+    color: black;
+    margin-left: 750px;
+    font-weight: bold;
+}
+
+.SecondTitle{
+    font-size: 20px;
+    font-style: normal;
+    color: black;
+    margin-left: 755px;
+    font-weight: bold;
+}
+
+.PatientSurname{
+    margin-left: 575px;
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+
+}
+
+.PatientLastname{
+    margin-left: 572px;
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+
+}
+
+.Datepicker{
+
+    margin-left: 695px;
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+}
+.timepicker{
+    margin-left: 695px;
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+}
+
+.note {
+    margin-left: 695px;
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+}
+
+.GPorNurse{
+
+    margin-left: 570px;
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+}
+.btn-success{
+    display: block;
+    width: 80px;
+    margin-left: 840px;
+}
+
+.dropdownB{
+
+    font-size: 20px;
+    width: 243px;
+    height: 35px;
+}
+.OpeningHours{
+
+    margin-left: 580px;
+    color: red;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 135px;
+}
+
+.btn-successStaff{
+    margin-left: 1440px;
+    font: bold 11px Arial;
+    text-decoration: none;
+    background-color: #EEEEEE;
+    color: #333333;
+    padding: 2px 3px 2px 3px;
+    font-size: 22px;
+}

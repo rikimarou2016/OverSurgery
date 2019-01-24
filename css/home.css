@@ -1,0 +1,45 @@
+
+img{
+    display: block;
+    margin-left: 85px;
+    margin-right: 60px;
+
+}
+
+.btn-warning{
+    display: block;
+    margin-left: 730px;
+    width: 85px;
+
+}
+
+.btn-success{
+    display: block;
+    margin-left: 35px;
+    width: 85px;
+
+}
+.btn-logout{
+
+    margin-left: 1500px;
+    font: bold 11px Arial;
+    text-decoration: none;
+    background-color: #EEEEEE;
+    color: #333333;
+    padding: 2px 3px 2px 3px;
+    font-size: 22px;
+}
+
+.Username,.Password{
+    margin-left: 630px;
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    font-weight: bold;
+
+}
+
+.login{
+    margin-left: 600px;
+
+}

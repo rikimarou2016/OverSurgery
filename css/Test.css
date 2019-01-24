@@ -1,0 +1,68 @@
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+
+}
+
+.Main-title{
+    font-size: 30px;
+    font-style: normal;
+    color: black;
+    text-align: center;
+    font-weight: bold;
+}
+
+.secondTitle{
+
+
+    font-size: 20px;
+    font-style: normal;
+    color: black;
+    margin-left: 745px;
+    font-weight: bold;
+
+
+}
+
+.button1{
+
+    font-size: 30px;
+    width: 280px;
+    padding: 2px 6px 2px 6px;
+    margin-left: 670px;
+}
+
+.textBox{
+    margin-left: 450px;
+    width: 700px;
+    height: 220px;
+    margin-top: 65px;
+}
+
+
+.btn-successPatient {
+
+    margin-left: 1440px;
+    font: bold 11px Arial;
+    text-decoration: none;
+    background-color: #EEEEEE;
+    color: #333333;
+    padding: 2px 3px 2px 3px;
+    font-size: 22px;
+}
+
+
+.StaffTable,th,td{
+
+    color: black;
+    font-size: 16px;
+    margin-left: 510px;
+    border: 3px solid black;
+    padding: 7px;
+    background-color: #b8daff;
+    text-align: center;
+    margin-top: 35px;
+
+}

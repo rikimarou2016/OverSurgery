@@ -1,0 +1,92 @@
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+
+
+
+.Datepicker{
+
+    margin-left: 660px;
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+}
+
+.text-center{
+
+    margin-right:30px;
+}
+
+.MainTitle{
+    margin-left: 728px;
+    font-weight: bold;
+
+}
+
+
+.GPorNurse{
+
+    margin-left: 530px;
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+}
+
+.btn-success{
+    display: block;
+    width: 80px;
+    margin-left: 790px;
+}
+.textBox{
+    margin-left: 460px;
+    width: 700px;
+    height: 150px;
+    margin-top: 45px;
+}
+.dropdownB{
+
+    font-size: 20px;
+    width: 243px;
+    height: 35px;
+}
+
+
+
+.col-sm-4 {
+
+    margin-left:510px ;
+}
+
+.btn-successStaff{
+    margin-left: 1440px;
+    font: bold 11px Arial;
+    text-decoration: none;
+    background-color: #EEEEEE;
+    color: #333333;
+    padding: 2px 3px 2px 3px;
+    font-size: 22px;
+}
+
+
+.containerCheckstaff{
+
+
+    margin-left: 750px;
+}
+
+.StaffTable,th,td{
+
+    color: black;
+    font-size: 16px;
+    margin-left: 280px;
+    border: 3px solid black;
+    padding: 7px;
+    background-color: #b8daff;
+    text-align: center;
+    margin-top: 35px;
+
+}

@@ -1,0 +1,142 @@
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.button1{
+
+    font: bold 11px Arial;
+    text-decoration: none;
+    background-color: #EEEEEE;
+    color: #333333;
+    padding: 2px 6px 2px 6px;
+    border-top: 1px solid #CCCCCC;
+    border-right: 1px solid #333333;
+    border-bottom: 1px solid #333333;
+    border-left: 1px solid #CCCCCC;
+    display: block;
+    font-size: 18px;
+    background: olivedrab;
+    margin-left: 100px;
+    margin-top: 90px;
+    width: 200px;
+    height: 150px;
+    font-weight: bold;
+    text-align: center;
+    position:relative;
+    vertical-align: center;
+    line-height: 65px;
+
+}
+
+.button2 {
+    font: bold 11px Arial;
+    text-decoration: none;
+    background-color: #EEEEEE;
+    color: #333333;
+    padding: 2px 6px 2px 6px;
+    border-top: 1px solid #CCCCCC;
+    border-right: 1px solid #333333;
+    border-bottom: 1px solid #333333;
+    border-left: 1px solid #CCCCCC;
+    display: block;
+    background: lightgreen;
+    font-size: 18px;
+    margin-left: 100px;
+    margin-top: 90px;
+    width: 200px;
+    height: 150px;
+    font-weight: bold;
+    text-align: center;
+    position:relative;
+    vertical-align: center;
+    line-height: 150px;
+
+}
+
+.button3{
+    display: block;
+    font-size: 18px;
+    margin-left: 140px;
+    margin-top: 90px;
+    width: 200px;
+    height: 150px;
+    font-weight: bold;
+
+}
+
+.button4{
+    font: bold 11px Arial;
+    text-decoration: none;
+    background-color: #EEEEEE;
+    color: #333333;
+    padding: 2px 6px 2px 6px;
+    border-top: 1px solid #CCCCCC;
+    border-right: 1px solid #333333;
+    border-bottom: 1px solid #333333;
+    border-left: 1px solid #CCCCCC;
+    background: pink;
+    display: block;
+    font-size: 18px;
+    margin-left: 170px;
+    margin-top: 90px;
+    width: 200px;
+    height: 150px;
+    font-weight: bold;
+    text-align: center;
+    position:relative;
+    vertical-align: center;
+    line-height: 65px;
+}
+
+.button5{
+    font: bold 11px Arial;
+    text-decoration: none;
+    background-color: #EEEEEE;
+    color: #333333;
+    padding: 2px 6px 2px 6px;
+    border-top: 1px solid #CCCCCC;
+    border-right: 1px solid #333333;
+    border-bottom: 1px solid #333333;
+    border-left: 1px solid #CCCCCC;
+    display: block;
+    font-size: 18px;
+    background: yellow;
+    margin-left: 200px;
+    margin-top: 90px;
+    width: 200px;
+    height: 150px;
+    font-weight: bold;
+    text-align: center;
+    position:relative;
+    vertical-align: center;
+    line-height: 150px;
+}
+
+.Main-title{
+    font-size: 38px;
+    font-style: normal;
+    color: black;
+    text-align: center;
+    font-weight: bold;
+}
+.btn-logout{
+
+    margin-left: 1580px;
+    font: bold 11px Arial;
+    text-decoration: none;
+    background-color: #EEEEEE;
+    color: #333333;
+    padding: 2px 3px 2px 3px;
+    font-size: 22px;
+}
+
+.helloUser{
+
+    font-size: 40px;
+    margin-top: 100px;
+    margin-left: 650px;
+    color: black;
+}

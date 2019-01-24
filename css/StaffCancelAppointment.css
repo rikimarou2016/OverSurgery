@@ -1,0 +1,48 @@
+img{
+    display: block;
+    margin-left: 100px;
+    margin-right: 50px;
+}
+
+.Main-title{
+    font-size: 30px;
+    font-style: normal;
+    color: black;
+    margin-left: 760px;
+    font-weight: bold;
+}
+
+.SecondTitle{
+
+    font-size: 20px;
+    font-style: normal;
+    color: black;
+    margin-left: 760px;
+    font-weight: bold;
+}
+
+.StaffTable,th,td{
+
+    color: black;
+    font-size: 16px;
+    margin-left: 285px;
+    border: 3px solid black;
+    padding: 7px;
+    background-color: #b8daff;
+    text-align: center;
+    margin-top: 40px;
+
+}
+
+
+
+
+.btn-successStaff{
+    margin-left: 1440px;
+    font: bold 11px Arial;
+    text-decoration: none;
+    background-color: #EEEEEE;
+    color: #333333;
+    padding: 2px 3px 2px 3px;
+    font-size: 22px;
+}
